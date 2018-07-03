@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$USER_HOME$/Documents/workspace/puzhen/simpleService/src/main/webapp/app/app.module.js" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/workspace/puzhen/simpleService/src/main/webapp/app/entities/free-class-record/tab-batch-upload.html" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/workspace/puzhen/simpleService/src/main/webapp/app/entities/free-class-record/tab-new-orders.html" charset="UTF-8" />
     <file url="PROJECT" charset="GB2312" />
   </component>
 </project>
