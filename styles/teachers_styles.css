@@ -386,7 +386,7 @@ section
 }
 .main_nav_item a:hover
 {
-	color: #ffb606;
+	color: rgb(181, 0 , 29);
 }
 
 /*********************************
@@ -397,7 +397,7 @@ section
 {
 	width: 279px;
 	height: 100%;
-	background: #ffb606;
+	background: rgb(181, 0 , 29);
 }
 .header_side img
 {
@@ -439,7 +439,7 @@ section
 }
 .hamburger_container:hover i
 {
-	color: #ffb606;
+	color: rgb(181, 0 , 29);
 }
 
 /*********************************
@@ -517,7 +517,7 @@ section
 }
 .menu_item a:hover
 {
-	color: #ffb606;
+	color: rgb(181, 0 , 29);
 }
 .menu_close_container
 {
@@ -564,7 +564,7 @@ section
 .menu_close_container:hover .menu_close,
 .menu_close_container:hover .menu_close::after
 {
-	background: #ffb606;
+	background: rgb(181, 0 , 29);
 }
 
 /*********************************
@@ -602,7 +602,7 @@ section
 }
 .menu_social_item a i:hover
 {
-	color: #ffb606;
+	color: rgb(181, 0 , 29);
 }
 .menu_container.active .menu_social_container
 {
@@ -679,7 +679,7 @@ section
 	-ms-transform: translateX(-50%);
 	-o-transform: translateX(-50%);
 	transform: translateX(-50%);
-	background: #ffb606;
+	background: rgb(181, 0 , 29);
 	padding-top: 24px;
 	padding-bottom: 18px;
 	padding-left: 39px;
@@ -727,7 +727,7 @@ section
 	width: 55px;
 	height: 4px;
 	content: '';
-	background: #ffb606;
+	background: rgb(181, 0 , 29);
 }
 
 /*********************************
@@ -808,7 +808,7 @@ section
 	transform: translate(-50%, -50%) scale(0.5);
 	width: 75px;
 	height: 75px;
-	background: #ffb606;
+	background: rgb(181, 0 , 29);
 	z-index: 10;
 	cursor: pointer;
 	visibility: hidden;
@@ -895,7 +895,7 @@ section
 {
 	font-size: 36px;
 	font-weight: 500;
-	color: #ffb606;
+	color: rgb(181, 0 , 29);
 	line-height: 1;
 	margin-top: 41px;
 }
@@ -933,7 +933,7 @@ section
 	width: 55px;
 	height: 4px;
 	content: '';
-	background: #ffb606;
+	background: rgb(181, 0 , 29);
 }
 .become_text
 {
@@ -946,7 +946,7 @@ section
 {
 	width: 188px;
 	height: 53px;
-	background: #ffb606;
+	background: rgb(181, 0 , 29);
 	margin-top: 37px;
 }
 .become_button a
@@ -1011,14 +1011,14 @@ section
 }
 .newsletter_email:focus
 {
-	outline: solid 2px #ffb606;
+	outline: solid 2px rgb(181, 0 , 29);
 }
 .newsletter_submit_btn
 {
 	width: 164px;
 	height: 42px;
 	border: none;
-	background: #ffb606;
+	background: rgb(181, 0 , 29);
 	color: #FFFFFF;
 	font-size: 14px;
 	font-weight: 500;
@@ -1080,7 +1080,7 @@ section
 }
 .footer_list_item a:hover
 {
-	color: #ffb606;
+	color: rgb(181, 0 , 29);
 }
 .footer_contact_item
 {
@@ -1121,7 +1121,7 @@ section
 }
 .footer_social .menu_social_item a i:hover
 {
-	color: #ffb606;
+	color: rgb(181, 0 , 29);
 }
 .footer_social .menu_social_item:last-child
 {
